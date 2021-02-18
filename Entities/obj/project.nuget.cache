@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3obxHIBWB0lfGCP6fMexx13auUFIyt1zKw05ehBNypwivuOXd2sF9B5PNjA8laCKPsqduYd215hfnTr1tXHEYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yozgat İL MEM\\Source\\Repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
