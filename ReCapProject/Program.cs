@@ -18,14 +18,14 @@ namespace ReCapProject
             carManager.Delete(new Car{Id = 6});
 
 
-            foreach (var car in carManager.GetAll())
+            foreach (var car in carManager.GetAll().Data)
             {
                 Console.WriteLine(car.Description);
             }
 
             Console.WriteLine("-----------------------------");
 
-            Console.WriteLine(carManager.GetById(1).Description);
+            Console.WriteLine(carManager.GetById(1).Data.Description);
 
             Console.WriteLine("-----------------------------");
 
