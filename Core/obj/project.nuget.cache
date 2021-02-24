@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Fh032MNyfypFPM1pXzRZTwzMuUc3tFO9NvVYu7Jm5vl3ZJrH52d3/VWnQV9q+1/TWardlI1nrPoEtwFExx7PQ==",
+  "dgSpecHash": "uaayBrJpA4epXN/KRHD5N8YrA9Wh1mD8vRvebK2bzw8+vSMfyWl1aZF1XohZ6laHXcX9RqwPPVJmA8PjTQ174g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yozgat İL MEM\\Source\\Repos\\CarRental\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -62,6 +63,7 @@
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
