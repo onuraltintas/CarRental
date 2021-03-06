@@ -1,3 +1,8 @@
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
@@ -6,6 +11,12 @@ C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\We
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -35,6 +46,7 @@ C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Sy
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
@@ -53,11 +65,6 @@ C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Bu
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
@@ -66,8 +73,3 @@ C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\We
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll

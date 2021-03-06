@@ -12,12 +12,6 @@ C:\Users\Yozgat İL MEM\Source\Repos\ReCapProject\Business\obj\Debug\netstandard
 C:\Users\Yozgat İL MEM\Source\Repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\Yozgat İL MEM\Source\Repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\Yozgat İL MEM\Source\Repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.dll
-C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\Business.deps.json
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\Business.dll
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\Business.pdb
@@ -27,4 +21,10 @@ C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Yozgat İL MEM\Source\Repos\CarRental\Business\obj\Debug\netstandard2.0\Business.pdb

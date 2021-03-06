@@ -5,15 +5,22 @@ using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using Business.BusinessAspect.Autofac;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.Utilities.Business;
+using Core.Utilities.Helpers;
+using DataAccess.Abstract;
 
 namespace Business.Concrete
 {
     public class CarImageManager : ICarImageService
     {
-        ICarImageDAL _carImageDAL;
+        ICarImageDal _carImageDAL;
 
-        public CarImageManager(ICarImageDAL carImageDAL)
+        public CarImageManager(ICarImageDal carImageDAL)
         {
             _carImageDAL = carImageDAL;
         }
@@ -51,7 +58,7 @@ namespace Business.Concrete
             {
                 return result;
             }
-            carImage.ImagePath = FileHelper.Update(_carImageDAL.Get(p => p.Id == carImage.Id).ImagePath, file);
+            carImage.ImagePath = FileHelper.Update(_carImageDAL.GetById(p => p.Id == carImage.Id).ImagePath, file);
             carImage.Date = DateTime.Now;
             _carImageDAL.Update(carImage);
             return new SuccessResult();
@@ -60,7 +67,7 @@ namespace Business.Concrete
         [ValidationAspect(typeof(CarImageValidator))]
         public IDataResult<CarImage> Get(int id)
         {
-            return new SuccessDataResult<CarImage>(_carImageDAL.Get(p => p.Id == id));
+            return new SuccessDataResult<CarImage>(_carImageDAL.GetById(p => p.Id == id));
         }
        
         public IDataResult<List<CarImage>> GetAll()
