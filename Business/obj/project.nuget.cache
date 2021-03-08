@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t+ZB2uSwnqz3yHdS38UIIhYUfWqvVRw6dIuvHYuAG7wAi6AbjOXbltxq21zIODZqdSuyJZ+zFCgZYCvJSGXFgQ==",
+  "dgSpecHash": "bcIMx6Ro6FvFpTlj6qYz0hPYpXfL2c6234n9JYCvkDO/peitKlUczc0qkANyaQRE0O5Coaqh2oa6T7GAqKFSUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yozgat İL MEM\\Source\\Repos\\CarRental\\Business\\Business.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.3\\microsoft.aspnetcore.http.features.5.0.3.nupkg.sha512",

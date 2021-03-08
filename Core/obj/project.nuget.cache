@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Xq6pnYiQY6aAE5MLUoElI6KGEHFiJ+JLbOsewz9A8O0z+u1A+H42p6gaeI18IDEmZ/i5ADND4CWvdwBtqj7mEw==",
+  "dgSpecHash": "NFy5FVi9UQ1DrAeH3pNbOcT1Y/aswypsxgJtcwFg3AYrnG4ys94qvsL7dMpkm/i7b964CIIAqUH9x8GfR4q0Xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yozgat İL MEM\\Source\\Repos\\CarRental\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Yozgat İL MEM\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
